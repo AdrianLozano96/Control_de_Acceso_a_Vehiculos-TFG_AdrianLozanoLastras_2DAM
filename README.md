@@ -17,6 +17,9 @@ El cliente será el encargado de realizar el reconocimiento de las matriculas, v
 El servidor se encargará de obtener las matriculas enviadas por el cliente para cotejarlas con la base de datos y verificarlas, una vez hecho le devuelve una respuesta al cliente y en caso de que la matricula este cotejada se registrará su entrada o salida correspondiente. Para ello se ha realizado una aplicación web que permita realizar las diferentes consultas de las entradas y salidas realizadas, y los vehículos y propietarios registrados.
 
 
+**Si desea ver el código y tener las credenciales necesarias del proyecto contacteme**
+
+
 ## Desarrollado con 🛠️
 
 **Cliente**
