@@ -1,4 +1,4 @@
-# Control de Acceso de Vehículos (CavAll) &nbsp;&nbsp;&nbsp; NOTA:10
+# Control de Acceso de Vehículos (CavAll) &nbsp; &nbsp; &nbsp; NOTA:10
 
 TFG de Control de Acceso a Vehículos desarrollado por Adrian Lozano Lastras en 2º de Desarrollo de Aplicaciones Multiplataforma
 
